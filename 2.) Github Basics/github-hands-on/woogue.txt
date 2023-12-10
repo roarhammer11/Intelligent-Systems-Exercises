@@ -1,0 +1,7 @@
+Things I learned:
+1. creating a GitHub account
+2. creating a repository
+3. cloning a remote repo to a local one
+4. adding and committing changes
+5. pushing/pulling changes to/from the remote/local repo
+6. forking a repository
